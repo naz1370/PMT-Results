@@ -1,0 +1,10 @@
+# PMT Results Explorer
+
+A Streamlit app for visualizing photomultiplier tube's light response vs  wavelength.
+
+🔗 in [https://pmt-results.streamlit.app](https://pmt-results.streamlit.app)
+
+## How to use
+1. Open the app using the link above.
+2. Select one or more PMTs.
+3. Click "Plot Data" to see Light Responnse wavelength plots.
